@@ -1,5 +1,10 @@
 # Sephora Customer Reviews Analysis
 
+
+![sephora logo](https://github.com/user-attachments/assets/a6de981a-1c01-41ca-a3ba-510681808201)
+
+# About
+
 This project analyzes a large set of Sephora product reviews to uncover insights into customer sentiment, product popularity, and brand performance. 
 Using Python and Power BI, the data was cleaned, structured, and visualized to support data-driven recommendations.
 
