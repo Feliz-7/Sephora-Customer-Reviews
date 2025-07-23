@@ -94,11 +94,10 @@ Data cleaning was performed using:
 
 # License
 
-[![License: CC0 1.0 Universal](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+This project uses components originally developed by [Pratyush Mohit](https://github.com/pratyushmohit) under the [MIT License](https://opensource.org/licenses/MIT).  
+We acknowledge and respect the original contributions and have retained the license notice accordingly.
 
-This project is dedicated to the public domain under the [Creative Commons CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).  
-You can copy, modify, and distribute this work without any restrictions.
-
+Dataset and analysis code are used under the terms of the MIT license.
 
 # Contact
 
